@@ -1,0 +1,8 @@
+<!-- This file is for rpg_dvs_ros's davis_ros_driver -->
+
+<launch>
+    <node 
+        name="davis_ros_driver" ns="davis" pkg="davis_ros_driver" type="davis_ros_driver">
+    </node>
+</launch>
+

@@ -1,0 +1,5 @@
+<launch>
+    <node 
+        name="event_node" ns="davis" pkg="davis_ros" type="event_node">
+    </node>
+</launch>
